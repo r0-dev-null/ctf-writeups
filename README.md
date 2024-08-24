@@ -1,1 +1,1 @@
-"# ctf-writeups" 
+# ctf writeups
